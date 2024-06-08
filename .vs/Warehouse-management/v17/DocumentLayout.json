@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D18216-2383-4AED-A3F9-62590EF695EA}|warehouse-management-api\\warehouse-management-api.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-api\\endpoints\\itemendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D18216-2383-4AED-A3F9-62590EF695EA}|warehouse-management-api\\warehouse-management-api.csproj|solutionrelative:warehouse-management-api\\endpoints\\itemendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-applicationtests\\items\\itemservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|solutionrelative:warehouse-management-applicationtests\\items\\itemservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|solutionrelative:warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF399B3F-6A2C-4A77-AB5B-13D85975B8AE}|warehouse-management-infrastructure\\warehouse-management-infrastructure.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-infrastructure\\db\\basicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF399B3F-6A2C-4A77-AB5B-13D85975B8AE}|warehouse-management-infrastructure\\warehouse-management-infrastructure.csproj|solutionrelative:warehouse-management-infrastructure\\db\\basicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF399B3F-6A2C-4A77-AB5B-13D85975B8AE}|warehouse-management-infrastructure\\warehouse-management-infrastructure.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-infrastructure\\db\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF399B3F-6A2C-4A77-AB5B-13D85975B8AE}|warehouse-management-infrastructure\\warehouse-management-infrastructure.csproj|solutionrelative:warehouse-management-infrastructure\\db\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D18216-2383-4AED-A3F9-62590EF695EA}|warehouse-management-api\\warehouse-management-api.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D18216-2383-4AED-A3F9-62590EF695EA}|warehouse-management-api\\warehouse-management-api.csproj|solutionrelative:warehouse-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D18216-2383-4AED-A3F9-62590EF695EA}|warehouse-management-api\\warehouse-management-api.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-api\\warehouse-management-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7D18216-2383-4AED-A3F9-62590EF695EA}|warehouse-management-api\\warehouse-management-api.csproj|solutionrelative:warehouse-management-api\\warehouse-management-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-application\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|solutionrelative:warehouse-management-application\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-application\\items\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|solutionrelative:warehouse-management-application\\items\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\exceptions\\similiaritemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\exceptions\\similiaritemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\dto\u0027s\\shopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\dto\u0027s\\shopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\dto\u0027s\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\dto\u0027s\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-application\\shops\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|solutionrelative:warehouse-management-application\\shops\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-application\\storages\\sotrageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F4AA6-19F3-4513-886D-8049C1CCDA3D}|warehouse-management-application\\warehouse-management-application.csproj|solutionrelative:warehouse-management-application\\storages\\sotrageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\dto\u0027s\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\dto\u0027s\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\dto\u0027s\\storagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\dto\u0027s\\storagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-applicationtests\\fakerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|solutionrelative:warehouse-management-applicationtests\\fakerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-applicationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AC0C9E-803A-41BB-90A8-3FA208DD07EB}|warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj|solutionrelative:warehouse-management-applicationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\entities\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\entities\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\exceptions\\storagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\exceptions\\storagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\exceptions\\shopnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\exceptions\\shopnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\exceptions\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\exceptions\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|c:\\users\\dena2_fau2\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\warehouse-management\\warehouse-management-core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3CC7D-4F25-445C-9569-F4C69A6B1789}|warehouse-management-core\\warehouse-management-core.csproj|solutionrelative:warehouse-management-core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-api\\Endpoints\\ItemEndPoint.cs",
+              "RelativeDocumentMoniker": "warehouse-management-api\\Endpoints\\ItemEndPoint.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-api\\Endpoints\\ItemEndPoint.cs",
+              "RelativeToolTip": "warehouse-management-api\\Endpoints\\ItemEndPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:10:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-api\\Program.cs",
+              "RelativeDocumentMoniker": "warehouse-management-api\\Program.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-api\\Program.cs",
+              "RelativeToolTip": "warehouse-management-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:57:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-infrastructure\\Db\\BasicRepository.cs",
+              "RelativeDocumentMoniker": "warehouse-management-infrastructure\\Db\\BasicRepository.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-infrastructure\\Db\\BasicRepository.cs",
+              "RelativeToolTip": "warehouse-management-infrastructure\\Db\\BasicRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:35:34.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarehouseContext.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-infrastructure\\Db\\WarehouseContext.cs",
+              "RelativeDocumentMoniker": "warehouse-management-infrastructure\\Db\\WarehouseContext.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-infrastructure\\Db\\WarehouseContext.cs",
+              "RelativeToolTip": "warehouse-management-infrastructure\\Db\\WarehouseContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:23:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "warehouse-management-applicationtests.csproj",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj",
+              "RelativeDocumentMoniker": "warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj",
+              "RelativeToolTip": "warehouse-management-applicationtests\\warehouse-management-applicationtests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T17:17:38.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\Items\\ItemServiceTest.cs",
+              "RelativeDocumentMoniker": "warehouse-management-applicationtests\\Items\\ItemServiceTest.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\Items\\ItemServiceTest.cs",
+              "RelativeToolTip": "warehouse-management-applicationtests\\Items\\ItemServiceTest.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwFQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:34:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "warehouse-management-api",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-api\\warehouse-management-api.csproj",
+              "RelativeDocumentMoniker": "warehouse-management-api\\warehouse-management-api.csproj",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-api\\warehouse-management-api.csproj",
+              "RelativeToolTip": "warehouse-management-api\\warehouse-management-api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T08:09:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Interfaces.cs",
+              "RelativeDocumentMoniker": "warehouse-management-application\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Interfaces.cs",
+              "RelativeToolTip": "warehouse-management-application\\Interfaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Items\\ItemService.cs",
+              "RelativeDocumentMoniker": "warehouse-management-application\\Items\\ItemService.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Items\\ItemService.cs",
+              "RelativeToolTip": "warehouse-management-application\\Items\\ItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\DTO\u0027s\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\ItemDTO.cs",
+              "RelativeToolTip": "warehouse-management-core\\DTO\u0027s\\ItemDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\ShopDTO.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\DTO\u0027s\\ShopDTO.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\ShopDTO.cs",
+              "RelativeToolTip": "warehouse-management-core\\DTO\u0027s\\ShopDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SotrageService.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Storages\\SotrageService.cs",
+              "RelativeDocumentMoniker": "warehouse-management-application\\Storages\\SotrageService.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Storages\\SotrageService.cs",
+              "RelativeToolTip": "warehouse-management-application\\Storages\\SotrageService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:25:09.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Shops\\ShopService.cs",
+              "RelativeDocumentMoniker": "warehouse-management-application\\Shops\\ShopService.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-application\\Shops\\ShopService.cs",
+              "RelativeToolTip": "warehouse-management-application\\Shops\\ShopService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Item.cs",
+              "RelativeToolTip": "warehouse-management-core\\Entities\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimiliarItemException.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\SimiliarItemException.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Exceptions\\SimiliarItemException.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\SimiliarItemException.cs",
+              "RelativeToolTip": "warehouse-management-core\\Exceptions\\SimiliarItemException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\DTO\u0027s\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\EmployeeDTO.cs",
+              "RelativeToolTip": "warehouse-management-core\\DTO\u0027s\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StorageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\StorageDTO.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\DTO\u0027s\\StorageDTO.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\DTO\u0027s\\StorageDTO.cs",
+              "RelativeToolTip": "warehouse-management-core\\DTO\u0027s\\StorageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FakeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\FakeRepository.cs",
+              "RelativeDocumentMoniker": "warehouse-management-applicationtests\\FakeRepository.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\FakeRepository.cs",
+              "RelativeToolTip": "warehouse-management-applicationtests\\FakeRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:17:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "warehouse-management-applicationtests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-applicationtests\\UnitTest1.cs",
+              "RelativeToolTip": "warehouse-management-applicationtests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:17:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Shop.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Entities\\Shop.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Shop.cs",
+              "RelativeToolTip": "warehouse-management-core\\Entities\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StorageNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\StorageNotFoundException.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Exceptions\\StorageNotFoundException.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\StorageNotFoundException.cs",
+              "RelativeToolTip": "warehouse-management-core\\Exceptions\\StorageNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:09:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Globals.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Globals.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Globals.cs",
+              "RelativeToolTip": "warehouse-management-core\\Globals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShopNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\ShopNotFoundException.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Exceptions\\ShopNotFoundException.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\ShopNotFoundException.cs",
+              "RelativeToolTip": "warehouse-management-core\\Exceptions\\ShopNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:52:19.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Storage.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Entities\\Storage.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Storage.cs",
+              "RelativeToolTip": "warehouse-management-core\\Entities\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\ItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Exceptions\\ItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Exceptions\\ItemNotFoundException.cs",
+              "RelativeToolTip": "warehouse-management-core\\Exceptions\\ItemNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Entities\\Employee.cs",
+              "RelativeToolTip": "warehouse-management-core\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Interfaces.cs",
+              "RelativeDocumentMoniker": "warehouse-management-core\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\dena2_fau2\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Warehouse-management\\warehouse-management-core\\Interfaces.cs",
+              "RelativeToolTip": "warehouse-management-core\\Interfaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:24:03.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
